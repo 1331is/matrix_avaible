@@ -1,0 +1,3 @@
+﻿  labyla.cpp
+C:\Users\HUAWEI\source\repos\For_matrix\For_matrix\labyla.cpp(262,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  For_matrix.vcxproj -> C:\Users\HUAWEI\source\repos\For_matrix\x64\Debug\For_matrix.exe
